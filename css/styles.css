@@ -4,4 +4,10 @@
 
 .container h1 {
   text-align: center;
+  padding-top: 23px;
+  padding-bottom: 20px;
+}
+
+button#allResult {
+  padding-top: 6px;
 }
